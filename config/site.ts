@@ -12,6 +12,6 @@ export const siteConfig = {
   ],
   links: {
     blog: "#",
-    github: "https://github.com/kuaimeizheng"
+    github: "https://github.com/kuaimeizheng/webnav"
   },
 }
